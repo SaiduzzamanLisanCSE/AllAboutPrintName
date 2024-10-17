@@ -1,6 +1,6 @@
 name = str(input("Enter your name: "))
 
-# remove whitespace from str
+# remove whitespace from string
 name = name.strip()
 
 # capitalize => Auto capitalize a single word
