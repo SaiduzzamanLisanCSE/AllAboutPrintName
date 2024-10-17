@@ -11,4 +11,4 @@ name = name.title()
 
 # name = str(input("Enter your name: ")).strip().title()
 
-print("My name is", name)
+print(f"My name is {name}")
